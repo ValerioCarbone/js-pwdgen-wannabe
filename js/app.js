@@ -38,6 +38,8 @@ console.log(passwordGenerated);
 //  - Mostrare all'utente il risultato della password generata
 //    - Inserire nell'html un elemento che contenga un testo
 //    - Richiamare nel js l'id dell'elemento
+//      - Dichiarare una variabile
+//      - Assegnare a tale variabile il contenuto dell'elemento richiamato tramite id
 //    - Modificare tale elemento con il risultato della variabile di concatenazione
 
 const yourPassword = document.getElementById('your_password');
